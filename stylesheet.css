@@ -1,0 +1,44 @@
+body{
+    
+    background-color: green;
+}
+
+img{
+    border-radius: 50%;
+    width: 20%;
+    height: 11%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: palevioletred;
+     display: block;
+     margin-left: 25%;
+     margin-right: 25%;
+}
+#header{
+text-align: center;
+background-color: green;
+border-width: 5px;
+border-style: solid;
+border-color: palevioletred;
+color: orange;
+}
+#list{
+    text-align: center;
+    color: orange;
+    border-width: 5px;
+    border-style: solid;
+    border-color: palevioletred;
+    padding: 1px;
+    margin-left: 10%;
+}
+
+
+
+
+
+
+#footer{
+    color: black;
+    border-color: green;
+    text-align: center;
+}
